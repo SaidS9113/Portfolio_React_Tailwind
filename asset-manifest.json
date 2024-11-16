@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio_react_tailwind/static/css/main.06420de8.css",
+    "main.js": "/portfolio_react_tailwind/static/js/main.a50d846a.js",
+    "static/js/453.2ad2c11d.chunk.js": "/portfolio_react_tailwind/static/js/453.2ad2c11d.chunk.js",
+    "static/media/project-1-siteECommerce.png": "/portfolio_react_tailwind/static/media/project-1-siteECommerce.81c6db7199b57734a3d5.png",
+    "static/media/avatar-qui-suis-je.jpg": "/portfolio_react_tailwind/static/media/avatar-qui-suis-je.73344205922a692edb62.jpg",
+    "static/media/fondBleu.png": "/portfolio_react_tailwind/static/media/fondBleu.5dfff45303f7c5081bf6.png",
+    "index.html": "/portfolio_react_tailwind/index.html",
+    "main.06420de8.css.map": "/portfolio_react_tailwind/static/css/main.06420de8.css.map",
+    "main.a50d846a.js.map": "/portfolio_react_tailwind/static/js/main.a50d846a.js.map",
+    "453.2ad2c11d.chunk.js.map": "/portfolio_react_tailwind/static/js/453.2ad2c11d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06420de8.css",
+    "static/js/main.a50d846a.js"
+  ]
+}
