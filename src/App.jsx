@@ -3,7 +3,7 @@ import Hero from "./components/Hero";
 import Tech from "./components/Tech";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
-import './asset/css/style.css';
+import './assets/css/style.css';
 function App() {
   return (
     <>
